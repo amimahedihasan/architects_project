@@ -150,7 +150,7 @@ main> section{
 }
 
 /* Batch */
-#ex-batch{
+#ex-badge{
     padding: 45px 42px;
     font-size: 1.5rem;
     font-weight: 500;
@@ -253,7 +253,7 @@ main> section{
 }
 
 
-#ex-batch{
+#ex-badge{
     margin-top: 20px;
     margin-left: 20px;
 
@@ -288,7 +288,7 @@ main> section{
         justify-items: center;
     }
     
-#ex-batch{
+#ex-badge{
     margin-top: 20px;
     margin-left: 20px;
 
